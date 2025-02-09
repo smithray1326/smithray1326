@@ -6,3 +6,4 @@
 - Typescript
 - Solidity
 - Web3
+- Ethereum
