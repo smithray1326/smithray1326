@@ -12,7 +12,7 @@
     width="54%"
     alt="languages graph" />
   <img
-    src="https://streak-stats.demolab.com/?user=smithray1326&theme=neon&hide_border=true&card_width=420"
+    src="https://streak-stats.demolab.com/?user=BTCoin23&theme=neon&hide_border=true&card_width=420"
     width="45%"
     alt="languages graph" />
 </div>
@@ -233,10 +233,6 @@
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=smithray1326&theme=gotham&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="@smithray1326's github-readme-stats-one-bice"/>
   </a>
   <a href="https://github.com/smithray1326?tab=stars">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=smithray1326&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"  width="49%" alt="@smithray1326's github-readme-streak-stats"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BTCoin23&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"  width="49%" alt="@smithray1326's github-readme-streak-stats"/>
   </a>
 </p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=smithray1326&&style=flat-square" align="center" />
-</div> 
