@@ -19,7 +19,7 @@
 
 ###
 
-<h2 align="center">Popular Software Tools & Programming Languages</h2>
+<h2 align="center">Fullstack developer & Blockchain developer & Web3 developer</h2>
 
 ###
 
@@ -189,7 +189,7 @@
         width="65"
         height="65"
         alt="MongoDB" />
-      <br />Go
+      <br />Rust
     </td>
     <td align="center" width="128">
       <img
@@ -197,7 +197,7 @@
         width="65"
         height="65"
         alt="Ruby" />
-      <br />Ruby
+      <br />Solidity
     </td>
     <td align="center" width="128">
       <img
@@ -205,7 +205,7 @@
         width="65"
         height="65"
         alt="PostgreSQL" />
-      <br />PostgreSQL
+      <br />Move
     </td>
     <td align="center" width="128">
       <img
@@ -213,7 +213,7 @@
         width="65"
         height="65"
         alt="FastAPI" />
-      <br />FastAPI
+      <br />Bitcoinjs
     </td>
     <td align="center" width="128">
       <img
