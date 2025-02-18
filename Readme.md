@@ -221,7 +221,7 @@
         alt="icon"
         width="65"
         height="65" />
-      <br />Docker
+      <br />Aptos
     </td>
   </tr>
 </table>
