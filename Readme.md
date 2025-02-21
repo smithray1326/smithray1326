@@ -123,7 +123,7 @@
         width="65"
         height="65"
         alt="bootstrap" />
-        <br />Bootstrap
+        <br />Bootstrap5.0
     </td>
     <td align="center" width="128">
       <img
